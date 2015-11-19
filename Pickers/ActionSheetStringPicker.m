@@ -167,6 +167,8 @@
     UILabel *pickerLabel = (UILabel *)view;
     if (pickerLabel == nil) {
         pickerLabel = [[UILabel alloc] init];
+        pickerLabel.adjustsFontSizeToFitWidth = YES;
+        pickerLabel.minimumScaleFactor = 0.5;
     }
     id obj = (self.data)[(NSUInteger) row];
     
