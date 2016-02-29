@@ -1,5 +1,37 @@
 # Change Log
 
+## [2.0.5](https://github.com/skywinder/ActionSheetPicker-3.0/tree/2.0.5) (2016-02-08)
+[Full Changelog](https://github.com/skywinder/ActionSheetPicker-3.0/compare/2.0.4...2.0.5)
+
+**Closed issues:**
+
+- Issue in origin [\#245](https://github.com/skywinder/ActionSheetPicker-3.0/issues/245)
+- NSRangeException occurs when I try to fast scroll \(apparently not selecting anything\) and click done [\#229](https://github.com/skywinder/ActionSheetPicker-3.0/issues/229)
+- Picker is duplicated when use showActionSheetPicker [\#224](https://github.com/skywinder/ActionSheetPicker-3.0/issues/224)
+- ActionSheetPickerCustomPickerDelegate [\#214](https://github.com/skywinder/ActionSheetPicker-3.0/issues/214)
+- ActionSheetDatePicker iOS 9 Problems [\#213](https://github.com/skywinder/ActionSheetPicker-3.0/issues/213)
+
+**Merged pull requests:**
+
+- Fix Swift Bug RE self.initialSelection in multi-pickers [\#252](https://github.com/skywinder/ActionSheetPicker-3.0/pull/252) ([sschale](https://github.com/sschale))
+
+## [2.0.4](https://github.com/skywinder/ActionSheetPicker-3.0/tree/2.0.4) (2015-12-04)
+[Full Changelog](https://github.com/skywinder/ActionSheetPicker-3.0/compare/2.0.3...2.0.4)
+
+**Fixed bugs:**
+
+- ActionSheetStringPicker not working on iPad \(only iPhone\) [\#156](https://github.com/skywinder/ActionSheetPicker-3.0/issues/156)
+
+**Closed issues:**
+
+- ActionSheetStringPicker problem with simulator and device iOS9 [\#233](https://github.com/skywinder/ActionSheetPicker-3.0/issues/233)
+- ActionSheetPickerView  Picker View not appearing for iPAD [\#187](https://github.com/skywinder/ActionSheetPicker-3.0/issues/187)
+- Date Picker not aligned well on landscape iPhone 6 Plus [\#129](https://github.com/skywinder/ActionSheetPicker-3.0/issues/129)
+
+**Merged pull requests:**
+
+- Use modern objective c initializer syntax [\#235](https://github.com/skywinder/ActionSheetPicker-3.0/pull/235) ([mamnun](https://github.com/mamnun))
+
 ## [2.0.3](https://github.com/skywinder/ActionSheetPicker-3.0/tree/2.0.3) (2015-10-13)
 [Full Changelog](https://github.com/skywinder/ActionSheetPicker-3.0/compare/2.0.2...2.0.3)
 
@@ -151,12 +183,16 @@
 
 - Light status bar style [\#119](https://github.com/skywinder/ActionSheetPicker-3.0/issues/119)
 
+**Merged pull requests:**
+
+- Fixes presentation issue on iPads [\#131](https://github.com/skywinder/ActionSheetPicker-3.0/pull/131) ([maciekish](https://github.com/maciekish))
+
 ## [1.3.11](https://github.com/skywinder/ActionSheetPicker-3.0/tree/1.3.11) (2015-01-15)
 [Full Changelog](https://github.com/skywinder/ActionSheetPicker-3.0/compare/1.3.10...1.3.11)
 
 **Merged pull requests:**
 
-- Fixes a crash while closing when using the Classy framework for styling [\#128](https://github.com/skywinder/ActionSheetPicker-3.0/pull/128) ([sudeepsidhu](https://github.com/sudeepsidhu))
+- Fixes a crash while closing when using the Classy framework for styling [\#128](https://github.com/skywinder/ActionSheetPicker-3.0/pull/128) ([SudeepSidhu](https://github.com/SudeepSidhu))
 
 ## [1.3.10](https://github.com/skywinder/ActionSheetPicker-3.0/tree/1.3.10) (2015-01-09)
 [Full Changelog](https://github.com/skywinder/ActionSheetPicker-3.0/compare/1.3.9...1.3.10)
